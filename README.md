@@ -1,4 +1,4 @@
-# crowntransfer
+# Crown Transfer
 Crown Transfer est une application qui vous permet de partager des fichiers entre pc
 
 ## Installation 
